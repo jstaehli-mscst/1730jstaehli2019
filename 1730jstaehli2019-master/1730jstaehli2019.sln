@@ -9,10 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jstaehli1730ex1c", "jstaehl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jstaehli1730ex1d", "jstaehli1730ex1d\jstaehli1730ex1d.csproj", "{717BE220-3FE2-4608-A46A-7548C77BC5B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jstaehli1730ex1e", "jstaehli1730ex1e\jstaehli1730ex1e.csproj", "{BA6CD460-3AB1-4056-83E4-7FDC03D59E6B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jstaehli1730ex1f", "jstaehli17301f\jstaehli1730ex1f.csproj", "{3817A179-9451-4CCA-8C41-5A34D7C523E4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,14 +27,6 @@ Global
 		{717BE220-3FE2-4608-A46A-7548C77BC5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{717BE220-3FE2-4608-A46A-7548C77BC5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{717BE220-3FE2-4608-A46A-7548C77BC5B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BA6CD460-3AB1-4056-83E4-7FDC03D59E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA6CD460-3AB1-4056-83E4-7FDC03D59E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA6CD460-3AB1-4056-83E4-7FDC03D59E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA6CD460-3AB1-4056-83E4-7FDC03D59E6B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3817A179-9451-4CCA-8C41-5A34D7C523E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3817A179-9451-4CCA-8C41-5A34D7C523E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3817A179-9451-4CCA-8C41-5A34D7C523E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3817A179-9451-4CCA-8C41-5A34D7C523E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

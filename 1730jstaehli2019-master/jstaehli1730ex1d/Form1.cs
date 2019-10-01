@@ -82,7 +82,9 @@ namespace jstaehli1730ex1d
                Convert.ToDecimal(txtUsdSwiss.Text)
                ).ToString("0.00");
                
-         }
+             
+
+        }
            
 
     }
